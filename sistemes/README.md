@@ -2,4 +2,11 @@
 
 ## Professor
 
-* Guillem Mateu *
+* Guillem Mateu 
+
+
+## Temes
+
+* Introducció
+* Representació de la informació
+* Gestió de processos...
